@@ -1,8 +1,3 @@
-# Vucut-Kitle-Indeksi-Hesaplayan-Program
-Java Vücut Kitle İndeksi Hesaplayan Program
-
-www.patika.dev
-
 import java.util.Scanner;
 
 public class Main {
